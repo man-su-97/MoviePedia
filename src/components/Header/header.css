@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Comforter&family=Merriweather&family=Montserrat&family=Sacramento&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:wght@500&family=Alkatra&family=Anek+Gurmukhi&display=swap");
+.header {
+  /* margin: auto; */
+  width: 100%;
+  cursor: pointer;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  text-transform: capitalize;
+  background-color: #e8e8e8; /*#155263*/
+  font-family: "Montserrat", sans-serif;
+  color: #155263;
+  font-size: 4vw;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  /* box-shadow: 0px 1px 5px black; */
+  z-index: 100;
+  border-radius: 5px;
+}
+
+@media (max-width: 1000px) {
+  .header {
+    padding-top: 15px;
+    font-size: 6.4vw;
+  }
+}

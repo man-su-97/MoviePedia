@@ -1,0 +1,33 @@
+* {
+  scroll-behavior: smooth;
+}
+
+.App {
+  min-height: 100vh;
+  background-color: #e8e8e8;
+  color: #2d4059;
+  padding-top: 130px;
+  padding-bottom: 70px;
+}
+
+@media (max-width: 700px) {
+  .App {
+    padding-top: 70px;
+  }
+}
+.pageTitle {
+  text-transform: capitalize;
+  display: flex;
+  justify-content: center;
+  font-family: "sofia", sans-serif;
+  font-size: 3vw;
+  padding: 10px;
+  border-radius: 30px;
+  color: #eb455f;
+}
+
+@media (max-width: 1000px) {
+  .pageTitle {
+    font-size: 6.4vw;
+  }
+}
