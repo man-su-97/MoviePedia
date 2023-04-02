@@ -7,16 +7,15 @@
 <td>
   Movies and TV Series App in React JS and Material UI with full responsive fuctionality. I used MovieDB API for backend.
 </td>
-![Screenshot (604)](https://user-images.githubusercontent.com/52149720/229351147-fbe513a8-8cdc-4e55-95b4-9fb9633019d9.png)
-<td>
-</td>
 </tr>
 </table>
 
 <h2>First Screen</h2>
 <h3>Trending Section</h3>
 <br/>
+
 ![Screenshot (604)](https://user-images.githubusercontent.com/52149720/229351147-fbe513a8-8cdc-4e55-95b4-9fb9633019d9.png)
+
 <h2>Second Screen</h2>
 <h3>Movies Section with Pagination and Genres</h3>
 <br/>
