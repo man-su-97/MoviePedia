@@ -10,4 +10,9 @@
 </tr>
 </table>
 
-![MOVIE APP](https://user-images.githubusercontent.com/51760520/124705920-1172ac80-df14-11eb-9568-1e91968b1273.png)
+![Screenshot (606)](https://user-images.githubusercontent.com/52149720/229351140-697fc07c-139e-4a7b-b263-9b87d2c7bcec.png)
+![Screenshot (607)](https://user-images.githubusercontent.com/52149720/229351144-3da67dde-93c0-4b2f-8505-ed7532ff41bf.png)
+![Screenshot (608)](https://user-images.githubusercontent.com/52149720/229351146-69e74589-d559-4d4d-ae6e-0012a01d92b4.png)
+![Screenshot (604)](https://user-images.githubusercontent.com/52149720/229351147-fbe513a8-8cdc-4e55-95b4-9fb9633019d9.png)
+![Screenshot (605)](https://user-images.githubusercontent.com/52149720/229351148-9752594e-6767-47b3-9836-e1e9aa0de146.png)
+
