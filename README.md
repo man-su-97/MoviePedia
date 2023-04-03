@@ -7,6 +7,9 @@
 <td>
   Movies and TV Series App in React JS and Material UI with full responsive fuctionality. I used MovieDB API for backend.
 </td>
+<td>
+  <a href="https://moviepedia-15135.netlify.app/">Try this site</a>
+</td>
 </tr>
 </table>
 
