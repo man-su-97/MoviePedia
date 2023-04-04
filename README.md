@@ -37,6 +37,4 @@
 ![Screenshot (608)](https://user-images.githubusercontent.com/52149720/229351146-69e74589-d559-4d4d-ae6e-0012a01d92b4.png)
 
 
-## 🔖 LICENCE
 
-[MIT](https://github.com/TallyAssist/TallyAssist/blob/master/LICENSE)
